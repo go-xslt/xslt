@@ -7,7 +7,7 @@ package xslt
 import (
 	"fmt"
 
-	"github.com/go-ruby-nokogiri/nokogiri"
+	"github.com/go-nokogiri/nokogiri"
 )
 
 // transformer holds the mutable state of a single transformation run.

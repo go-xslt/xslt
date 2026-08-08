@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-ruby-nokogiri/nokogiri"
+	"github.com/go-nokogiri/nokogiri"
 )
 
 // evalCtx bundles the dynamic context for an XPath evaluation: the context node,

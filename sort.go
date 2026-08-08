@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/go-ruby-nokogiri/nokogiri"
+	"github.com/go-nokogiri/nokogiri"
 )
 
 // sortKey is one compiled xsl:sort spec.

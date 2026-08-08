@@ -7,7 +7,7 @@ package xslt
 import (
 	"strings"
 
-	"github.com/go-ruby-nokogiri/nokogiri"
+	"github.com/go-nokogiri/nokogiri"
 )
 
 // serialize renders the result tree honouring the merged xsl:output declaration.

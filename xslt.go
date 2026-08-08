@@ -6,7 +6,7 @@
 // deferred XSLT layer of the go-ruby Nokogiri stack. Ruby's Nokogiri::XSLT is a
 // C wrapper over libxslt; this package instead compiles and applies XSLT 1.0
 // stylesheets over the pure-Go XML DOM and XPath 1.0 engine provided by
-// github.com/go-ruby-nokogiri/nokogiri, so the whole path stays CGO-free.
+// github.com/go-nokogiri/nokogiri, so the whole path stays CGO-free.
 //
 // # Model
 //
@@ -54,7 +54,7 @@
 // annotations) and tunnel parameters. This is a 1.0 processor.
 package xslt
 
-import "github.com/go-ruby-nokogiri/nokogiri"
+import "github.com/go-nokogiri/nokogiri"
 
 // Version is the XSLT version this processor implements.
 const Version = "1.0"

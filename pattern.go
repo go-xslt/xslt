@@ -7,7 +7,7 @@ package xslt
 import (
 	"strings"
 
-	"github.com/go-ruby-nokogiri/nokogiri"
+	"github.com/go-nokogiri/nokogiri"
 )
 
 // patternMatches reports whether node n matches the XSLT pattern. A pattern is a

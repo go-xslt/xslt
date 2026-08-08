@@ -4,7 +4,7 @@
 
 package xslt
 
-import "github.com/go-ruby-nokogiri/nokogiri"
+import "github.com/go-nokogiri/nokogiri"
 
 // buildKeys populates the key index by evaluating every xsl:key match/use over
 // the source document once. A key value that is a node-set contributes one entry

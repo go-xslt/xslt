@@ -7,7 +7,7 @@ package xslt
 import (
 	"strings"
 
-	"github.com/go-ruby-nokogiri/nokogiri"
+	"github.com/go-nokogiri/nokogiri"
 )
 
 // execChildren runs the sequence-constructor children of elem against the given

@@ -7,7 +7,7 @@ package xslt
 import (
 	"strings"
 
-	"github.com/go-ruby-nokogiri/nokogiri"
+	"github.com/go-nokogiri/nokogiri"
 )
 
 // newResultElement creates an element node in the result document, preserving its

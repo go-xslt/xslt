@@ -7,7 +7,7 @@ package xslt
 import (
 	"testing"
 
-	"github.com/go-ruby-nokogiri/nokogiri"
+	"github.com/go-nokogiri/nokogiri"
 )
 
 // newTransformer builds a transformer over a source document for white-box tests
