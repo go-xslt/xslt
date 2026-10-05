@@ -1,6 +1,6 @@
 module github.com/go-xslt/xslt
 
-go 1.26.4
+go 1.27.1
 
 require github.com/go-nokogiri/nokogiri v0.1.0
 
